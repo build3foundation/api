@@ -7,7 +7,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/polkadot-js/api.git"
+    "url": "https://github.com/build3foundation/api.git"
   },
   "sideEffects": false,
   "type": "commonjs",
